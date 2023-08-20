@@ -37,6 +37,24 @@
     </a> 
  </div>
 
+<!-- Visitors stats in my profile -->
+
+<div align="center">
+    <br>
+    <p 
+        align="center">
+        <b> Visitors count in my profile </b>
+    </p>  
+    <p 
+        align="center">
+        <img 
+            align="center" 
+            src="https://profile-counter.glitch.me/{olvericc}/count.svg" 
+         alt="Visitors count of my profile"/>
+    </p> 
+<br>
+</div>
+
 <!-- Footer of my readme -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=120&section=footer" alt="footer"/>
