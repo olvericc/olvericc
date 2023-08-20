@@ -22,19 +22,36 @@
 <!-- My social medias -->
 
 <div align="center">
+    <br>
+    <p
+        align="center">
+        <b> My social medias, contact with me! </b>
+    </p>
     <a 
         href="mailto:olv.ericlopes@gmail.com"> 
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         style="border-radius: 5px"
-        target="_blank">
+        target="_blank" alt="gmail icon">
     </a>
     <a 
         href="https://www.linkedin.com/in/eric-lopes-oliveira-93a6061aa/" 
         target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         style="border-radius: 5px" 
-        target="_blank">
+        target="_blank" alt="linkedin icon">
     </a> 
+    <a
+        href="https://t.me/olv_ericc">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+        style="border-radius: 5px"
+        target="_blank" alt="telegram icon">
+    </a>
+    <a
+        href="">
+        <img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+        style="border-radius: 5px"
+        target="_blank" alt="discord icon">
+    </a>
  </div>
 
 <!-- Visitors stats in my profile -->
@@ -50,7 +67,8 @@
         <img 
             align="center" 
             src="https://profile-counter.glitch.me/{olvericc}/count.svg" 
-         alt="Visitors count of my profile"/>
+            alt="Visitors count of my profile"
+        />
     </p> 
 <br>
 </div>
