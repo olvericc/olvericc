@@ -96,7 +96,7 @@
 
 <!-- Snake Animation -->
 
-<!--![Snake animation](https://github.com/olvericc/olvericc/blob/output/github-contribution-grid-snake.svg) -->
+[Snake animation](https://github.com/olvericc/olvericc/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Footer of my readme -->
 
