@@ -6,7 +6,7 @@
 <!-- The initial content of my readme -->
 
 <!-- Simple message for all new visitors -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=40&center=true&vCenter=true&width=1000&lines=hi,+my+name+is+Eric+Lopes+Oliveira;i'm+21+years+old;i'm+a+brazilian+developer;welcome+to+my+github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=40&center=true&vCenter=true&width=1000&lines=hi,+my+name+is+Eric+Lopes+Oliveira;i'm+22+years+old;i'm+a+brazilian+developer;welcome+to+my+github+profile)](https://git.io/typing-svg)
 
 <!-- Stats of my GitHub profile -->
 
